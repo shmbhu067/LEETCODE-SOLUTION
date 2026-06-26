@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 ## Tree
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0226-invert-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
