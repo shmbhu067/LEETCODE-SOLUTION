@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
+| [0300-longest-increasing-subsequence](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0867-transpose-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Simulation
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
