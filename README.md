@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
+| [0707-design-linked-list](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0707-design-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
