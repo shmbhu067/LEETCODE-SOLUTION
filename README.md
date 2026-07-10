@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0867-transpose-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0867-transpose-matrix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 ## Stack
