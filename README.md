@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0371-sum-of-two-integers) |
 | [0756-pyramid-transition-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0756-pyramid-transition-matrix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
