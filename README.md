@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
