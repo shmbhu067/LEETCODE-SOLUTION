@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -168,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
