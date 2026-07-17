@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0118-pascals-triangle) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0300-longest-increasing-subsequence) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
