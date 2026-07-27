@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0055-jump-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
