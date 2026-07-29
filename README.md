@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0756-pyramid-transition-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0756-pyramid-transition-matrix) |
 ## String
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
@@ -208,5 +212,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
