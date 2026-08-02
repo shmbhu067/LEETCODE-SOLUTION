@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0300-longest-increasing-subsequence) |
+| [0486-predict-the-winner](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1260-shift-2d-grid) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0300-longest-increasing-subsequence) |
+| [0486-predict-the-winner](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -222,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
