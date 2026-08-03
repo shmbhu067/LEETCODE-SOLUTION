@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1406-stone-game-iii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
+| [1406-stone-game-iii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -230,4 +233,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
