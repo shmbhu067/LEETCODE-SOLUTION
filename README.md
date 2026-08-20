@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0118-pascals-triangle) |
@@ -178,11 +179,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0078-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0756-pyramid-transition-matrix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0201-bitwise-and-of-numbers-range) |
