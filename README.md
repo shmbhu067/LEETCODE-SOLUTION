@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0389-find-the-difference) |
 | [0756-pyramid-transition-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0756-pyramid-transition-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0389-find-the-difference) |
 | [0756-pyramid-transition-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0756-pyramid-transition-matrix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0389-find-the-difference) |
 | [0756-pyramid-transition-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0756-pyramid-transition-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1386-cinema-seat-allocation) |
