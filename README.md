@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0389-find-the-difference) |
 | [0756-pyramid-transition-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0756-pyramid-transition-matrix) |
+| [1009-complement-of-base-10-integer](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
