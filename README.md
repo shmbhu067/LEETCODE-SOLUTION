@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0389-find-the-difference) |
 | [0756-pyramid-transition-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0756-pyramid-transition-matrix) |
+| [1927-sum-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
