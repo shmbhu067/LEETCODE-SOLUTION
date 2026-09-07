@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0078-subsets) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0344-reverse-string) |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
