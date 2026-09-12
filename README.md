@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0032-longest-valid-parentheses) |
