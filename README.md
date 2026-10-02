@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0067-add-binary) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0078-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0756-pyramid-transition-matrix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
@@ -420,4 +423,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
