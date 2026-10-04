@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0389-find-the-difference) |
+| [0678-valid-parenthesis-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0709-to-lower-case) |
 | [0756-pyramid-transition-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0756-pyramid-transition-matrix) |
 | [1927-sum-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1927-sum-game) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
@@ -424,4 +428,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
