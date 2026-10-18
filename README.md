@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
 | [1872-stone-game-viii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Table
 |  |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
@@ -287,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0191-number-of-1-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Merge Sort
 |  |
 | ------- |
@@ -308,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -341,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Enumeration
 |  |
 | ------- |
@@ -439,10 +447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Trie
 |  |
@@ -461,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0856-score-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
