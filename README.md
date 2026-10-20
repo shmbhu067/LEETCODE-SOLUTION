@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0709-to-lower-case) |
 | [0756-pyramid-transition-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0756-pyramid-transition-matrix) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
+| [0394-decode-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3483-unique-3-digit-even-numbers) |
