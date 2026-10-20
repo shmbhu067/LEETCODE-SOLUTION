@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0709-to-lower-case) |
 | [0756-pyramid-transition-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0756-pyramid-transition-matrix) |
 | [0856-score-of-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0856-score-of-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0856-score-of-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
