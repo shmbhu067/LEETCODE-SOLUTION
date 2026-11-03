@@ -1,6 +1,7 @@
 class Solution {
     public int minMoves(int[] nums) {
         int maxVal = Integer.MIN_VALUE;
+        int sum = 0;
         for(int num : nums){
             if(num > maxVal){
                 maxVal = num;
@@ -8,8 +9,11 @@ class Solution {
         }
         int moves = 0;
         for(int num : nums){
-            moves += (maxVal - num); 
+            maxVal = Math.max(maxVal,num);
+            sum += num;
+             
         }
-        return moves;
+
+        return (nums.length*maxVal ) - sum;
     }
 }
