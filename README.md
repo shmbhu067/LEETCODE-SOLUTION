@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
 | [1872-stone-game-viii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting Sort
