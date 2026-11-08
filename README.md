@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1267-count-servers-that-communicate) |
 | [1386-cinema-seat-allocation](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1572-matrix-diagonal-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -500,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
