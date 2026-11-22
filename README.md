@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/shmbhu067/LEETCODE-SOLUTION/tree/master/2409-count-days-spent-together) |
